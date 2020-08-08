@@ -1,4 +1,4 @@
-# spottr-web-app
+# Using browser Intersection Observer API
 
 > My fantastic Nuxt.js project
 
