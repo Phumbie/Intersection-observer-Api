@@ -1,4 +1,4 @@
-# Using browser Intersection Observer API
+# This project demonstrates how to use the native browser intersection observer api with vue.
 
 > My fantastic Nuxt.js project
 
